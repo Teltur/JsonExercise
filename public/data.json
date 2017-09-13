@@ -1,0 +1,66 @@
+[{
+  "id": 1,
+  "name": "Teet Järveküla",
+  "cars": [{
+    "id": 1,
+    "make": "Lada",
+    "model": "2101",
+    "numberplate": "123ASD"
+  }, {
+    "id": 2,
+    "make": "Kia",
+    "model": "Sorento",
+    "numberplate": "534TTT"
+  }]
+}, {
+  "id": 2,
+  "name": "Pille Purk",
+  "cars": [{
+    "id": 3,
+    "make": "Skoda",
+    "model": "Octavia",
+    "numberplate": "999GLF"
+  }, {
+    "id": 4,
+    "make": "Kia",
+    "model": "Sorento",
+    "numberplate": "555TFF"
+  }]
+}, {
+  "id": 3,
+  "name": "Mati Kaal",
+  "cars": [{
+    "id": 5,
+    "make": "Lada",
+    "model": "2101",
+    "numberplate": "445KKK"
+  }, {
+    "id": 6,
+    "make": "Audi",
+    "model": "A6",
+    "numberplate": "997HHH"
+  }]
+}, {
+  "id": 4,
+  "name": "Külli Kukk",
+  "cars": [{
+    "id": 7,
+    "make": "BMW",
+    "model": "760",
+    "numberplate": "444RRR"
+  }, {
+    "id": 8,
+    "make": "Audi",
+    "model": "A6",
+    "numberplate": "876OUI"
+  }]
+}, {
+  "id": 5,
+  "name": "Teet Kruus",
+  "cars": [{
+    "id": 9,
+    "make": "BMW",
+    "model": "740",
+    "numberplate": "112YUI"
+  }]
+}]

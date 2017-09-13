@@ -1,0 +1,31 @@
+{
+    "name": "helmich/phpunit-json-assert",
+    "description": "PHPUnit assertions for JSON documents",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Martin Helmich",
+            "email": "m.helmich@mittwald.de"
+        }
+    ],
+    "require": {
+        "flow/jsonpath": "^0.3.1",
+        "phpunit/phpunit": ">=6.0",
+        "justinrainbow/json-schema": "^5.0",
+        "php": ">=7.0"
+    },
+    "require-dev": {
+        "codeclimate/php-test-reporter": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Helmich\\JsonAssert\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "files": [
+            "vendor/phpunit/phpunit/src/Framework/Assert/Functions.php",
+            "src/Functions.php"
+        ]
+    }
+}
